@@ -5,9 +5,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Movo is a iOS app build using VIPER design pattern for showcasing coding pratice,
+Movo is a iOS app build using VIPER design pattern for showcasing coding practice,
 
-Tack stack
+Tech stack
 - UI-Kit framework
 - URL session
 
